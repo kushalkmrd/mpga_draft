@@ -1,8 +1,63 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Civic Engagement Platform
+description: A platform for addressing civic issues across India's 19,101 PIN codes
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://kushalkmrd.github.io/mpga_draft
 
+# Color scheme
+color_scheme: light
+
+# Enable search
+search_enabled: true
+
+# Enable copy code button
+enable_copy_code_button: true
+
+# Footer content
+footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed by an <a href=\"https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt\">MIT license.</a>"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/kushalkmrd/mpga_draft"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Google Analytics
+ga_tracking: UA-XXXXXXXX-X
+ga_tracking_anonymize_ip: true
+
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Repository": "https://github.com/kushalkmrd/mpga_draft"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Optimize for SEO
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Compress HTML (for faster loading)
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
