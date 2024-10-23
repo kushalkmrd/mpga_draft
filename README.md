@@ -1,4 +1,4 @@
-# Civic Engagement Platform for India
+# MPGA India
 
 ## About This Project
 

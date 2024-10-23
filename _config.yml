@@ -20,16 +20,12 @@ footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed by
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Footer "Edit this page on GitHub" link text
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/kushalkmrd/mpga_draft"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
-# Google Analytics
-ga_tracking: UA-XXXXXXXX-X
-ga_tracking_anonymize_ip: true
 
 # Aux links for the upper right navigation
 aux_links:
@@ -53,7 +49,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Compress HTML (for faster loading)
 compress_html:
   clippings: all
   comments: all

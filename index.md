@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# Civic Engagement Platform for India
+# MPGA 
 
 Welcome to our innovative platform designed to bridge the gap between citizens and government in India. We aim to simplify the process of addressing civic and policy issues across the country's 19,101 PIN codes.
 
