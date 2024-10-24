@@ -26,11 +26,11 @@ gh_edit_repository: "https://github.com/kushalkmrd/mpga_draft"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
-# Auxiliary links in the upper right navigation
+# Auxiliary links for the upper right navigation
 aux_links:
   "GitHub Repository": "https://github.com/kushalkmrd/mpga_draft"
 
-# Open auxiliary links in a new tab
+# Makes auxiliary links open in a new tab
 aux_links_new_tab: true
 
 # SEO optimization plugins
@@ -56,3 +56,18 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# Navigation configuration (add your pages here)
+nav:
+  - title: Home
+    url: /
+  - title: Submit an Issue
+    url: /submit-issue/
+  - title: Find Your POC
+    url: /find-poc/
+  - title: About Us
+    url: /about-us/
+  - title: Map of MPs
+    url: /map-of-mps/
+  - title: Issues Table
+    url: /issues-table/
