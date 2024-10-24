@@ -14,18 +14,18 @@ To empower Indian citizens by providing a structured approach to solving civic p
 
 ## Key Features
 
-- **Issue Submission**: Easily report civic problems in your area.
-- **Prioritization**: Vote on issues to highlight the most pressing concerns.
-- **Transparent Tracking**: Follow the progress of reported issues from submission to resolution.
+- **Issue Submission**: Report civic problems easily.
+- **Prioritization**: Vote on pressing concerns.
+- **Transparent Tracking**: Track the progress of reported issues.
 - **Multi-level Approach**: Address problems at National (L1), State (L2), and Pincode (L3) levels.
-- **POC Connection**: Find and connect with the right Point of Contact for your issues.
+- **POC Connection**: Connect with suitable Points of Contact for assistance.
 
 ## How It Works
 
 1. **Submit an Issue**: Report a civic problem in your area.
 2. **Prioritize**: Vote on existing issues to help prioritize community concerns.
 3. **Track Progress**: Follow the status of your submitted issues.
-4. **Connect**: Engage with local POCs and troubleshooters for faster resolution.
+4. **Connect**: Engage with local POCs and troubleshooters faster.
 
 ## Get Started
 
@@ -36,9 +36,9 @@ To empower Indian citizens by providing a structured approach to solving civic p
 
 By creating a transparent and efficient system for addressing civic issues, we aim to:
 
-- Improve the overall quality of life in communities across India.
+- Improve quality of life in communities across India.
 - Increase accountability in public service.
-- Empower citizens to actively participate in local governance.
-- Build a data-driven approach to solving civic problems.
+- Empower citizens to participate in local governance.
+- Build a data-driven approach to civic problem solving.
 
-Join us in our mission to create a more responsive and efficient civic engagement system for India!
+Join us to create a responsive and efficient civic engagement system for India!

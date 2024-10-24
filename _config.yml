@@ -2,39 +2,38 @@ title: Civic Engagement Platform
 description: A platform for addressing civic issues across India's 19,101 PIN codes
 theme: just-the-docs
 
+# Site URL
 url: https://kushalkmrd.github.io/mpga_draft
 
-# Color scheme
+# Appearance settings
 color_scheme: light
 
-# Enable search
+# Features
 search_enabled: true
-
-# Enable copy code button
 enable_copy_code_button: true
 
 # Footer content
-footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed by an <a href=\"https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed under an <a href=\"https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt\">MIT license</a>."
 
-# Back to top link
+# Navigation settings
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# GitHub edit link settings
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/kushalkmrd/mpga_draft"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
-
-# Aux links for the upper right navigation
+# Auxiliary links in the upper right navigation
 aux_links:
   "GitHub Repository": "https://github.com/kushalkmrd/mpga_draft"
 
-# Makes Aux links open in a new tab
+# Open auxiliary links in a new tab
 aux_links_new_tab: true
 
-# Optimize for SEO
+# SEO optimization plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -43,12 +42,13 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
+  - node_modules/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
 
+# HTML compression settings
 compress_html:
   clippings: all
   comments: all
