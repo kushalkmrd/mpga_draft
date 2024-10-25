@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issues Table
+title: Reported Issues
 nav_order: 6
 ---
 

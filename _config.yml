@@ -4,16 +4,12 @@ theme: just-the-docs
 
 url: https://kushalkmrd.github.io/mpga_draft
 
-color_scheme: light # dark
+color_scheme: light
 
 search_enabled: true
 enable_copy_code_button: true
 
 footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed under an <a href='https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt'>MIT license</a>."
-
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -29,41 +25,7 @@ aux_links:
 
 aux_links_new_tab: true
 
-callouts_level: quiet # or loud
-callouts:
-  highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
-
-nav_enabled: true
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-menus
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  
