@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Submit an Issue
+permalink: /pages/submit-issue/
 nav_order: 2
 ---
 
