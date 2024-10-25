@@ -2,43 +2,33 @@ title: Civic Engagement Platform
 description: A platform for addressing civic issues across India's 19,101 PIN codes
 theme: just-the-docs
 
-# Site URL
 url: https://kushalkmrd.github.io/mpga_draft
 
-# Appearance settings
 color_scheme: light
 
-# Features
 search_enabled: true
 enable_copy_code_button: true
 
-# Footer content
-footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed under an <a href=\"https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt\">MIT license</a>."
+footer_content: "Copyright &copy; 2024 Civic Engagement Platform. Distributed under an <a href='https://github.com/kushalkmrd/mpga_draft/blob/main/LICENSE.txt'>MIT license</a>."
 
-# Navigation settings
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# GitHub edit link settings
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/kushalkmrd/mpga_draft"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
-# Auxiliary links for the upper right navigation
 aux_links:
   "GitHub Repository": "https://github.com/kushalkmrd/mpga_draft"
 
-# Makes auxiliary links open in a new tab
 aux_links_new_tab: true
 
-# SEO optimization plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -48,16 +38,11 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# HTML compression settings
 compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: []
-  blanklines: false
-  profile: false
 
-# Navigation configuration (add your pages here)
 nav:
   - title: Home
     url: /
