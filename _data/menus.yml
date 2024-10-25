@@ -1,0 +1,30 @@
+header:
+  - title: Home
+    url: /
+    identifier: home
+  - title: Submit an Issue
+    url: /submit-issue/
+    identifier: submit-issue
+  - title: Find Your POC
+    url: /find-poc/
+    identifier: find-poc
+  - title: About Us
+    url: /about-us/
+    identifier: about-us
+  - title: Map of MPs
+    url: /map-of-mps/
+    identifier: map-of-mps
+  - title: Issues Table
+    url: /issues-table/
+    identifier: issues-table
+  - title: Campaigns
+    children:
+      - title: Bengaluru 2024
+        url: /documents/_bengaluru_2024/
+        identifier: bengaluru-2024
+      - title: Delhi 2024
+        url: /documents/_delhi_2024/
+        identifier: delhi-2024
+  - title: Blog
+    url: /blog/
+    identifier: blog

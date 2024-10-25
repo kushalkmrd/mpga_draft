@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://kushalkmrd.github.io/mpga_draft
 
-color_scheme: light
+color_scheme: light # dark
 
 search_enabled: true
 enable_copy_code_button: true
@@ -43,25 +43,4 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-
-nav:
-  - title: Home
-    url: /
-  - title: Submit an Issue
-    url: /pages/submit-issue/
-  - title: Find Your POC
-    url: /pages/find-poc/
-  - title: About Us
-    url: /pages/about-us.md
-  - title: Map| Where is my MP ?
-    url: /pages/map-of-mps/
-  - title: Table of Issues 
-    url: /pages/issues-table/
-  - title: Campaigns
-    children:
-      - title: Bengaluru August 2024
-        url: /documents/_bengaluru_2024/
-      - title: Delhi July 2024
-        url: documents/_delhi_2024/
-  - title: Blog
-    url: /documents/blog/
+  
