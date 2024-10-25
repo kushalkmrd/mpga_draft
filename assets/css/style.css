@@ -32,3 +32,15 @@ body {
     padding: 20px;
     text-align: center;
   }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+  }

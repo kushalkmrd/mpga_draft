@@ -56,3 +56,11 @@ nav:
     url: /map-of-mps/
   - title: Issues Table
     url: /issues-table/
+  - title: Campaigns
+    children:
+      - title: Bengaluru 2024
+        url: /documents/_bengaluru_2024/
+      - title: Delhi 2024
+        url: /documents/_delhi_2024/
+  - title: Blog
+    url: /blog/
