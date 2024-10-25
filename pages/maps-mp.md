@@ -8,7 +8,7 @@ nav_order: 5
 
 Explore the geographical distribution of Members of Parliament across India using the interactive map below.
 
-<iframe style="height:500px; width:100%; border:none;" src="https://facilmap.org/sj19ktJypCpd?route=false&amp;pois=false#8/28.864/75.819/Mpnk-Bike/m299379"></iframe>
+<iframe style="height:500px; width:100%; border:none;" src="https://facilmap.org/sj19ktJypCpd?route=false&amp;pois=false#8/28.864/75.819/Mpnk-Bike/m299379" allow="geolocation" style="height:500px; width:100%; border:none;"></iframe>
 
 ## How to Use the Map
 
