@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Neet"
+permalink: /documents/_delhi_2024/MPGA Issue Brief_ NEET/
 author: volunteer nerd
 ---
+
+
+
 
 **MPGA Issue Brief: NEET-UG conducted by National Testing Agency (NTA)**
 
@@ -188,3 +194,4 @@ effectiveness of the NTA\'s operations
 aims to raise citizen issues with Parliamentarians from across the
 political spectrum with the objective of reclaiming the Parliament as
 the House of the People.
+

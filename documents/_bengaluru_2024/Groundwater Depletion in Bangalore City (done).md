@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Groundwater Depletion In Bangalore City (Done)"
+permalink: /documents/_bengaluru_2024/Groundwater Depletion in Bangalore City (done)/
 author: volunteer nerd
 ---
+
+
+
 
 # **Groundwater Depletion in Bangalore City** 
 
@@ -108,3 +114,4 @@ Parliament as the House of the People.
 [[https://www.thehindu.com/news/cities/bangalore/about-90-households-in-bengaluru-let-rainwater-go-down-the-drain/article67098373.ece]{.underline}](https://www.thehindu.com/news/cities/bangalore/about-90-households-in-bengaluru-let-rainwater-go-down-the-drain/article67098373.ece)
 
 [[https://indianexpress.com/article/cities/bangalore/lakes-of-bengaluru-200-year-old-jakkur-lake-has-its-own-integrated-wetland-8518741/]{.underline}](https://indianexpress.com/article/cities/bangalore/lakes-of-bengaluru-200-year-old-jakkur-lake-has-its-own-integrated-wetland-8518741/)
+

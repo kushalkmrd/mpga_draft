@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Short Version Gig Workers Security (Done)"
+permalink: /documents/_bengaluru_2024/Short Version Gig Workers Security (done)/
 author: volunteer nerd
 ---
+
+
+
 
 **Gig Workers\' Employment Status and Their Rights**
 
@@ -175,3 +181,4 @@ essential.
 > aims to raise public issues with representatives & decision makers
 > from across the political spectrum with the objective of reclaiming
 > the Parliament as the House of the People.
+

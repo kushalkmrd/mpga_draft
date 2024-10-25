@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Broadcast Bill"
+permalink: /documents/_delhi_2024/MPGA Issue Brief_ Broadcast Bill/
 author: volunteer nerd
 ---
+
+
+
 
 **MPGA Issue Brief: Broadcast Bill**
 
@@ -252,3 +258,4 @@ the House of the People.
     Services (Regulation) Bill, 2023* (Legislative Brief). PRS
     Legislative Research.
     https://prsindia.org/billtrack/prs-products/prs-legislative-brief-1713951499
+

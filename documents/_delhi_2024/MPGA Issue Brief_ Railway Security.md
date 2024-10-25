@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Railway Security"
+permalink: /documents/_delhi_2024/MPGA Issue Brief_ Railway Security/
 author: volunteer nerd
 ---
+
+
+
 
 **Issue Brief: Kavach + Railway Security**
 
@@ -75,3 +81,4 @@ IV. Despite recent accidents, why has the Railway Ministry not taken
 aims to raise citizen issues with Parliamentarians from across the
 political spectrum with the objective of reclaiming the Parliament as
 the House of the People.
+

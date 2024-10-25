@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Infra"
+permalink: /documents/_delhi_2024/MPGA Issue Brief_ Infra/
 author: volunteer nerd
 ---
+
+
+
 
 **Status of Infrastructure and call for an engineer certification**
 
@@ -153,3 +159,4 @@ infrastructure failures.
 aims to raise citizen issues with Parliamentarians from across the
 political spectrum with the objective of reclaiming the Parliament as
 the House of the People.
+

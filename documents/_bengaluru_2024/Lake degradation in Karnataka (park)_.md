@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Lake Degradation In Karnataka (Park)_"
+permalink: /documents/_bengaluru_2024/Lake degradation in Karnataka (park)_/
 author: volunteer nerd
 ---
+
+
+
 
 [(s]{.mark}
 
@@ -126,3 +132,4 @@ Parliament as the House of the People.
 [[[https://reasonstobecheerful.world/bengaluru-india-city-of-lakes-revival/]{.underline}]{.mark}](https://reasonstobecheerful.world/bengaluru-india-city-of-lakes-revival/)
 
 [[[https://www.sciencedirect.com/science/article/abs/pii/S0044848622011942]{.underline}]{.mark}](https://www.sciencedirect.com/science/article/abs/pii/S0044848622011942)
+

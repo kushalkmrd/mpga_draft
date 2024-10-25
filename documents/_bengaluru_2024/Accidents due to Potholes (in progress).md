@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Accidents Due To Potholes (In Progress)"
+permalink: /documents/_bengaluru_2024/Accidents due to Potholes (in progress)/
 author: volunteer nerd
 ---
+
+
+
 
 **Issue Brief: Accidents Due To Potholes**
 
@@ -134,3 +140,4 @@ accidents in the future
 aims to raise citizen issues with representatives & decision makers from
 across the political spectrum with the objective of reclaiming the
 Parliament as the House of the People.
+

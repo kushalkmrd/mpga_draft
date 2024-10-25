@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga_ Budget Demands"
+permalink: /documents/_delhi_2024/MPGA_ Budget Demands/
 author: volunteer nerd
 ---
+
+
+
 
 **MPGA: National Budget 2024 Demands**
 
@@ -113,3 +119,4 @@ C)  [Implementation of the Swaminathan Commission\'s recommendations to
 aims to raise citizen issues with Parliamentarians from across the
 political spectrum with the objective of reclaiming the Parliament as
 the House of the People.
+

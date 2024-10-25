@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Safety For Sanitation Workers (Done)"
+permalink: /documents/_bengaluru_2024/Safety for Sanitation Workers (done)/
 author: volunteer nerd
 ---
+
+
+
 
 **Safety And Living Conditions of Pourakarmikas**
 
@@ -121,3 +127,4 @@ issue -- the casualisation of work.]{.mark}
 aims to raise public issues with representatives & decision makers from
 across the political spectrum with the objective of reclaiming the
 Parliament as the House of the People.
+

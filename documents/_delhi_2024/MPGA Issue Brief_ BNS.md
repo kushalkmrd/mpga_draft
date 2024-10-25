@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Bns"
+permalink: /documents/_delhi_2024/MPGA Issue Brief_ BNS/
 author: volunteer nerd
 ---
+
+
+
 
 **Issue Brief: Bharatiya Nyay Sanhita (BNS) and Adjunct Laws**
 
@@ -125,3 +131,4 @@ author: volunteer nerd
 aims to raise citizen issues with Parliamentarians from across the
 political spectrum with the objective of reclaiming the Parliament as
 the House of the People.
+

@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Karnataka Floods (Sig Additions Needed)"
+permalink: /documents/_bengaluru_2024/Karnataka Floods (Sig additions needed)/
 author: volunteer nerd
 ---
+
+
+
 
 **Issue Brief: Floods**
 
@@ -48,3 +54,4 @@ following short-term and long-term solutions can be considered:
 aims to raise public issues with representatives & decision makers from
 across the political spectrum with the objective of reclaiming the
 Parliament as the House of the People.
+

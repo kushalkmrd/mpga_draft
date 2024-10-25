@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Mpga Issue Brief_ Local Government (Done)"
+permalink: /documents/_bengaluru_2024/MPGA Issue Brief_ Local Government (done)/
 author: volunteer nerd
 ---
+
+
+
 
 **MPGA Issue Brief: Importance of Local Government and the Need for
 Elections in Urban Local Bodies in Karnataka**
@@ -370,3 +376,4 @@ Thank you,
 Yours sincerely,\
 Vijayan Menon\
 President, CAF
+

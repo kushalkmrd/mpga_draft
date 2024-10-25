@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Policy Brief_ The Importance Of Census In India (Done)"
+permalink: /documents/_bengaluru_2024/Policy Brief_ The Importance of Census in India (done)/
 author: volunteer nerd
 ---
+
+
+
 
 **Policy Brief: The Importance of Census in India**
 
@@ -132,3 +138,4 @@ Sources and additional reading
 [[https://www.epw.in/journal/2023/32/editorials/do-not-undermine-national-statistical-system.html]{.underline}](https://www.epw.in/journal/2023/32/editorials/do-not-undermine-national-statistical-system.html)
 
 [[https://www.nature.com/articles/d41586-024-02321-9]{.underline}](https://www.nature.com/articles/d41586-024-02321-9)
+

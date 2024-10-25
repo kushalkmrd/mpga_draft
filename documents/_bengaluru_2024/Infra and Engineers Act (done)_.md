@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Infra And Engineers Act (Done)_"
+permalink: /documents/_bengaluru_2024/Infra and Engineers Act (done)_/
 author: volunteer nerd
 ---
+
+
+
 
 **Status of Infrastructure and call for an engineer certification**
 
@@ -173,3 +179,4 @@ the Karnataka Professional Civil Engineers Act, 2024.
 [^1]: [[https://prsindia.org/files/bills_acts/acts_states/karnataka/2024/Act31of2024KA.pdf]{.underline}](https://prsindia.org/files/bills_acts/acts_states/karnataka/2024/Act31of2024KA.pdf)
 
 [^2]: [[https://www.indiacode.nic.in/bitstream/123456789/4585/1/professionalcivilengineer.pdf]{.underline}](https://www.indiacode.nic.in/bitstream/123456789/4585/1/professionalcivilengineer.pdf)
+

@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Public Transport (Done)"
+permalink: /documents/_bengaluru_2024/Public Transport (Done)/
 author: volunteer nerd
 ---
+
+
+
 
 **Need For More Bus Public Transport And Last Mile Connectivity In
 Bangalore**
@@ -158,3 +164,4 @@ March]{.underline}](https://www.deccanherald.com/india/karnataka/bengaluru/benga
 [[Tata Motors fined ₹17 lakh for not linking 250 buses with Chalo App \|
 Mumbai news - Hindustan
 Times]{.underline}](https://www.hindustantimes.com/cities/mumbai-news/tata-motors-fined-17-lakh-for-not-linking-250-buses-with-chalo-app-101675709993569.html)
+

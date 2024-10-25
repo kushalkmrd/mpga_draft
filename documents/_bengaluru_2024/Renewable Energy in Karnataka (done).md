@@ -1,6 +1,12 @@
 ---
+layout: default
+title: "Renewable Energy In Karnataka (Done)"
+permalink: /documents/_bengaluru_2024/Renewable Energy in Karnataka (done)/
 author: volunteer nerd
 ---
+
+
+
 
 **Status of Renewable Energy in Karnataka**
 
@@ -70,3 +76,4 @@ as the House of the People.
 [[https://powermin.gov.in/sites/default/files/uploads/ecact2001.pdf]{.underline}](https://powermin.gov.in/sites/default/files/uploads/ecact2001.pdf)
 
 [[https://www.sciencedirect.com/science/article/pii/S2452292921000898]{.underline}](https://www.sciencedirect.com/science/article/pii/S2452292921000898)
+
