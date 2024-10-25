@@ -47,20 +47,20 @@ nav:
   - title: Home
     url: /
   - title: Submit an Issue
-    url: /submit-issue/
+    url: /pages/submit-issue/
   - title: Find Your POC
-    url: /find-poc/
+    url: /pages/find-poc/
   - title: About Us
-    url: /about-us/
-  - title: Map of MPs
-    url: /map-of-mps/
-  - title: Issues Table
-    url: /issues-table/
+    url: /pages/about-us.md
+  - title: Map| Where is my MP ?
+    url: /pages/map-of-mps/
+  - title: Table of Issues 
+    url: /pages/issues-table/
   - title: Campaigns
     children:
-      - title: Bengaluru 2024
+      - title: Bengaluru August 2024
         url: /documents/_bengaluru_2024/
-      - title: Delhi 2024
-        url: /documents/_delhi_2024/
+      - title: Delhi July 2024
+        url: documents/_delhi_2024/
   - title: Blog
-    url: /blog/
+    url: /documents/blog/
