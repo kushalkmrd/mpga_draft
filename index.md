@@ -27,7 +27,7 @@ title: Intro to MPGA
         </a>
       </div>
       <div class="card">
-        <a href="/mpga_draft/pages/maps-mp/">
+        <a href="/mpga_draft/pages/maps-mp.html">
           <i class="fas fa-map"></i>
           View Your Representative’s Addresses (Open Map)
         </a>
