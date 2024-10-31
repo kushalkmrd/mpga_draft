@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bengaluru 2024 Campaign
-permalink: /mpga_draft/documents/_bengaluru_2024.html
+permalink: /mpga_draft/documents/_bengaluru_2024
 ---
 
 # Bengaluru 2024 Campaign
