@@ -9,4 +9,4 @@ nav_order: 6
 This is the table that contains data and updates on refreshing(?)
 
 
-<iframe src="https://facilmap.org/sj19ktJypCpd/table" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqTScEt63ETWuMqh5DuPulvqY2xTniBZQBgSqIHs9vf232f_mnCE8V6ErAe5DsPAoA-iipteanMU9D/pubhtml?gid=292138951&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
