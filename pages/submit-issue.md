@@ -12,20 +12,17 @@ Follow these steps to log your issue on the map:
 <div class="issue-steps">
   <div class="step">
     <i class="fas fa-map-marker-alt"></i>
-    <h3>Step 1:</h3>
-    <p>Click on the <strong>icon</strong>. Go to ‘<strong>Add</strong>’ and then ‘<strong>Issues</strong>’.</p>
+    <p> <b> Step 1: </b> Click on the <strong>icon</strong>. Go to ‘<strong>Add</strong>’ and then ‘<strong>Issues</strong>’.</p>
   </div>
 
   <div class="step">
     <i class="fas fa-map-pin"></i>
-    <h3>Step 2:</h3>
-    <p>Click a spot on the map to log the issue, then click ‘<strong>Edit Data</strong>’ to add more information.</p>
+    <p><b> Step 2:</b>Click a spot on the map to log the issue, then click ‘<strong>Edit Data</strong>’ to add more information.</p>
   </div>
 
   <div class="step">
     <i class="fas fa-save"></i>
-    <h3>Step 3:</h3>
-    <p>Start filling in the details and click ‘<strong>Save</strong>’.</p>
+    <p> <b> Step 3:</b> Start filling in the details and click ‘<strong>Save</strong>’.</p>
   </div>
 </div>
 
