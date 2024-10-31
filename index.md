@@ -6,8 +6,8 @@ title: Intro to MPGA
 <div class="container">
   <!-- Section: How to Navigate the Wiki -->
   <div class="section" id="navigate-wiki">
-    <h2><i class="fas fa-compass"></i> How to Navigate this WIKI?</h2>
-    <button class="btn-primary">Watch Explainer Video</button>
+    <h2><i class="fas fa-compass"></i> How to Navigate this MPGA platform?</h2>
+    <button class="btn-primary">Watch 3 Min Explainer Video</button>
   </div>
 
   <!-- Section: Act Now -->
@@ -27,7 +27,7 @@ title: Intro to MPGA
         </a>
       </div>
       <div class="card">
-        <a href="/map-of-mps/">
+        <a href="/mpga_draft/pages/maps-mp/">
           <i class="fas fa-map"></i>
           View Your Representative’s Addresses (Open Map)
         </a>
