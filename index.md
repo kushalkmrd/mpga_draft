@@ -60,14 +60,20 @@ title: Intro to MPGA
     </div>
   </div>
 
-  <!-- Section: Campaigns -->
-  <div class="section" id="campaigns">
-    <h2><i class="fas fa-flag"></i> CAMPAIGNS</h2>
-    <ul>
-      <li><a href="/documents/_bengaluru_2024/">Bengaluru 2024 Documents</a></li>
-      <li><a href="/documents/_delhi_2024/">Delhi 2024 Documents</a></li>
-    </ul>
-  </div>
+<!-- Section: Campaigns -->
+<div class="section" id="campaigns">
+  <h2><i class="fas fa-flag"></i> CAMPAIGNS</h2>
+  <ul>
+    <li>
+      <a href="/mpga_draft/documents/_bengaluru_2024.html">Bengaluru 2024 Documents</a> 
+      - We tried to present citizen made policy briefs to MPs focusing on urban development, public transport, and civic engagement in Bengaluru. Watch the campaign video and access documents here. 
+    </li>
+    <li>
+      <a href="/mpga_draft/documents/_delhi_2024.html">Delhi 2024 Documents</a> 
+      - We tried to present citizen made policy briefs to MPs focusing on urban development, public transport, and civic engagement in Delhi during the Summer session of Parliament 2024. Watch the campaign video and access documents here.
+    </li>
+  </ul>
+</div>
 
   <!-- Section: Blog -->
   <div class="section" id="blog">
